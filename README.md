@@ -8,3 +8,5 @@ A lightweight, portable Base64 Encoder/Decoder with a clean WinForms GUI for Win
 - 📋 **One-Click Copy:** Instant clipboard copy with visual feedback.
 - ⌨️ **Keyboard Friendly:** Full `Ctrl+A` and shortcut support.
 
+
+![description](https://github.com/Varkalion/B64Codec/blob/main/Screenshot.png?raw=true)
